@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996587786030",
+    "project_id": "otpgenratation",
+    "storage_bucket": "otpgenratation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996587786030:android:d5bf69407885eab65e34bf",
+        "android_client_info": {
+          "package_name": "com.example.otpgenratation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996587786030-1eoubhjlore592js72gajdtd9b24pfog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLMOpPcon6sqyOQuW2rnWXjoIbhSZU8RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996587786030-1eoubhjlore592js72gajdtd9b24pfog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
